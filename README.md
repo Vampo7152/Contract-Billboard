@@ -8,3 +8,4 @@
 - Put In Your Alchemy Key and Wallets Secret Key
 - Run `npx hardhat run scripts/deploy.js --network rinkeby`
 - Good to go 😎
+- Don't forget to copy the `Contract Address` which will be available in your Terminal after contract deployment. Paste it in a safe place as we be using it for our frontend.
