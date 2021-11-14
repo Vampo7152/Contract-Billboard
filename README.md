@@ -1,6 +1,6 @@
 # How to deploy to Rinkeby blockchain👀
 
-- Run `git clone https://github.com/Jds-23/billboard-nft-contract.git`
+- Run `git clone https://github.com/Vampo7152/Contract-Billboard`
 - Then `cd billboard-nft-contract`
 - Run `npm install`
 - Create a `secrets.json` in root directory
